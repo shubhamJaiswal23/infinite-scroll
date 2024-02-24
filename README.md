@@ -5,6 +5,6 @@ Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
 * Design UI and Implement Custom CSS Loader Animation
 * Retrieve Initial Posts from API and Display Them
-     * Implement Infinite Scrolling Functionality
-* When scrolling down, display a loader animation and fetch the next set of posts
+* Implement Infinite Scrolling Functionality
+    * When scrolling down, display a loader animation and fetch the next set of posts
 * Introduce Filtering Options for Displayed Posts
